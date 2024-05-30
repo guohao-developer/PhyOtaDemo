@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">PhyOtaBlueTooth</string>
+    <string name="title_activity_upgrade">UpgradeActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="blue_disabled">蓝牙已禁用</string>
+    <string name="location_disabled">位置已禁用</string>
+    <string name="enable_bluetooth">蓝牙适配器已关闭，单击下面的按钮以启用它。</string>
+    <string name="enable_location">位置已关闭，单击下面的按钮以启用它。</string>
+    <string name="enable">启用</string>
+
+    <string name="location_permission_title">需要位置许可</string>
+    <string name="location_permission_info">从 Android 6.0 Marshmallow 开始，应用程序需要位置权限才能扫描低功耗蓝牙设备。
+      \n\n这是因为蓝牙 LE 信标（例如 iBeacons 或 Eddystone）可用于确定手机和用户的位置。
+        <b>PhyOTA</b> 不会以任何方式使用这些信息。</string>
+    <string name="granted_permission">授予权限</string>
+</resources>
